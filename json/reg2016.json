@@ -1,0 +1,128 @@
+[
+  {
+    "REGION,C,2": 1,
+    "CHEFLIEU,C,5": 97105,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "GUADELOUPE",
+    "NCCENR,C,70": "Guadeloupe"
+  },
+  {
+    "REGION,C,2": 2,
+    "CHEFLIEU,C,5": 97209,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MARTINIQUE",
+    "NCCENR,C,70": "Martinique"
+  },
+  {
+    "REGION,C,2": 3,
+    "CHEFLIEU,C,5": 97302,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "GUYANE",
+    "NCCENR,C,70": "Guyane"
+  },
+  {
+    "REGION,C,2": 4,
+    "CHEFLIEU,C,5": 97411,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "LA REUNION",
+    "NCCENR,C,70": "La Réunion"
+  },
+  {
+    "REGION,C,2": 6,
+    "CHEFLIEU,C,5": 97608,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "MAYOTTE",
+    "NCCENR,C,70": "Mayotte"
+  },
+  {
+    "REGION,C,2": 11,
+    "CHEFLIEU,C,5": 75056,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "ILE-DE-FRANCE",
+    "NCCENR,C,70": "Île-de-France"
+  },
+  {
+    "REGION,C,2": 24,
+    "CHEFLIEU,C,5": 45234,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "CENTRE-VAL DE LOIRE",
+    "NCCENR,C,70": "Centre-Val de Loire"
+  },
+  {
+    "REGION,C,2": 27,
+    "CHEFLIEU,C,5": 21231,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "BOURGOGNE-FRANCHE-COMTE",
+    "NCCENR,C,70": "Bourgogne-Franche-Comté"
+  },
+  {
+    "REGION,C,2": 28,
+    "CHEFLIEU,C,5": 76540,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "NORMANDIE",
+    "NCCENR,C,70": "Normandie"
+  },
+  {
+    "REGION,C,2": 32,
+    "CHEFLIEU,C,5": 59350,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "NORD-PAS-DE-CALAIS-PICARDIE",
+    "NCCENR,C,70": "Nord-Pas-de-Calais-Picardie"
+  },
+  {
+    "REGION,C,2": 44,
+    "CHEFLIEU,C,5": 67482,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "ALSACE-CHAMPAGNE-ARDENNE-LORRAINE",
+    "NCCENR,C,70": "Alsace-Champagne-Ardenne-Lorraine"
+  },
+  {
+    "REGION,C,2": 52,
+    "CHEFLIEU,C,5": 44109,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "PAYS DE LA LOIRE",
+    "NCCENR,C,70": "Pays de la Loire"
+  },
+  {
+    "REGION,C,2": 53,
+    "CHEFLIEU,C,5": 35238,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "BRETAGNE",
+    "NCCENR,C,70": "Bretagne"
+  },
+  {
+    "REGION,C,2": 75,
+    "CHEFLIEU,C,5": 33063,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "AQUITAINE-LIMOUSIN-POITOU-CHARENTES",
+    "NCCENR,C,70": "Aquitaine-Limousin-Poitou-Charentes"
+  },
+  {
+    "REGION,C,2": 76,
+    "CHEFLIEU,C,5": 31555,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "LANGUEDOC-ROUSSILLON-MIDI-PYRENEES",
+    "NCCENR,C,70": "Languedoc-Roussillon-Midi-Pyrénées"
+  },
+  {
+    "REGION,C,2": 84,
+    "CHEFLIEU,C,5": 69123,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "AUVERGNE-RHONE-ALPES",
+    "NCCENR,C,70": "Auvergne-Rhône-Alpes"
+  },
+  {
+    "REGION,C,2": 93,
+    "CHEFLIEU,C,5": 13055,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "PROVENCE-ALPES-COTE D'AZUR",
+    "NCCENR,C,70": "Provence-Alpes-Côte d'Azur"
+  },
+  {
+    "REGION,C,2": 94,
+    "CHEFLIEU,C,5": "2A004",
+    "TNCC,C,1": 0,
+    "NCC,C,70": "CORSE",
+    "NCCENR,C,70": "Corse"
+  }
+]

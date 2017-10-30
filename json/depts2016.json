@@ -1,0 +1,810 @@
+[
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 1,
+    "CHEFLIEU,C,5": 1053,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "AIN",
+    "NCCENR,C,70": "Ain"
+  },
+  {
+    "REGION,C,2": 32,
+    "DEP,C,3": 2,
+    "CHEFLIEU,C,5": 2408,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "AISNE",
+    "NCCENR,C,70": "Aisne"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 3,
+    "CHEFLIEU,C,5": 3190,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "ALLIER",
+    "NCCENR,C,70": "Allier"
+  },
+  {
+    "REGION,C,2": 93,
+    "DEP,C,3": 4,
+    "CHEFLIEU,C,5": 4070,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "ALPES-DE-HAUTE-PROVENCE",
+    "NCCENR,C,70": "Alpes-de-Haute-Provence"
+  },
+  {
+    "REGION,C,2": 93,
+    "DEP,C,3": 5,
+    "CHEFLIEU,C,5": 5061,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "HAUTES-ALPES",
+    "NCCENR,C,70": "Hautes-Alpes"
+  },
+  {
+    "REGION,C,2": 93,
+    "DEP,C,3": 6,
+    "CHEFLIEU,C,5": 6088,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "ALPES-MARITIMES",
+    "NCCENR,C,70": "Alpes-Maritimes"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 7,
+    "CHEFLIEU,C,5": 7186,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "ARDECHE",
+    "NCCENR,C,70": "Ardèche"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 8,
+    "CHEFLIEU,C,5": 8105,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "ARDENNES",
+    "NCCENR,C,70": "Ardennes"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 9,
+    "CHEFLIEU,C,5": 9122,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "ARIEGE",
+    "NCCENR,C,70": "Ariège"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 10,
+    "CHEFLIEU,C,5": 10387,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "AUBE",
+    "NCCENR,C,70": "Aube"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 11,
+    "CHEFLIEU,C,5": 11069,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "AUDE",
+    "NCCENR,C,70": "Aude"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 12,
+    "CHEFLIEU,C,5": 12202,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "AVEYRON",
+    "NCCENR,C,70": "Aveyron"
+  },
+  {
+    "REGION,C,2": 93,
+    "DEP,C,3": 13,
+    "CHEFLIEU,C,5": 13055,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "BOUCHES-DU-RHONE",
+    "NCCENR,C,70": "Bouches-du-Rhône"
+  },
+  {
+    "REGION,C,2": 28,
+    "DEP,C,3": 14,
+    "CHEFLIEU,C,5": 14118,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "CALVADOS",
+    "NCCENR,C,70": "Calvados"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 15,
+    "CHEFLIEU,C,5": 15014,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "CANTAL",
+    "NCCENR,C,70": "Cantal"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 16,
+    "CHEFLIEU,C,5": 16015,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "CHARENTE",
+    "NCCENR,C,70": "Charente"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 17,
+    "CHEFLIEU,C,5": 17300,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "CHARENTE-MARITIME",
+    "NCCENR,C,70": "Charente-Maritime"
+  },
+  {
+    "REGION,C,2": 24,
+    "DEP,C,3": 18,
+    "CHEFLIEU,C,5": 18033,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "CHER",
+    "NCCENR,C,70": "Cher"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 19,
+    "CHEFLIEU,C,5": 19272,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "CORREZE",
+    "NCCENR,C,70": "Corrèze"
+  },
+  {
+    "REGION,C,2": 94,
+    "DEP,C,3": "2A",
+    "CHEFLIEU,C,5": "2A004",
+    "TNCC,C,1": 3,
+    "NCC,C,70": "CORSE-DU-SUD",
+    "NCCENR,C,70": "Corse-du-Sud"
+  },
+  {
+    "REGION,C,2": 94,
+    "DEP,C,3": "2B",
+    "CHEFLIEU,C,5": "2B033",
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-CORSE",
+    "NCCENR,C,70": "Haute-Corse"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 21,
+    "CHEFLIEU,C,5": 21231,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "COTE-D'OR",
+    "NCCENR,C,70": "Côte-d'Or"
+  },
+  {
+    "REGION,C,2": 53,
+    "DEP,C,3": 22,
+    "CHEFLIEU,C,5": 22278,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "COTES-D'ARMOR",
+    "NCCENR,C,70": "Côtes-d'Armor"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 23,
+    "CHEFLIEU,C,5": 23096,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "CREUSE",
+    "NCCENR,C,70": "Creuse"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 24,
+    "CHEFLIEU,C,5": 24322,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "DORDOGNE",
+    "NCCENR,C,70": "Dordogne"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 25,
+    "CHEFLIEU,C,5": 25056,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "DOUBS",
+    "NCCENR,C,70": "Doubs"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 26,
+    "CHEFLIEU,C,5": 26362,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "DROME",
+    "NCCENR,C,70": "Drôme"
+  },
+  {
+    "REGION,C,2": 28,
+    "DEP,C,3": 27,
+    "CHEFLIEU,C,5": 27229,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "EURE",
+    "NCCENR,C,70": "Eure"
+  },
+  {
+    "REGION,C,2": 24,
+    "DEP,C,3": 28,
+    "CHEFLIEU,C,5": 28085,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "EURE-ET-LOIR",
+    "NCCENR,C,70": "Eure-et-Loir"
+  },
+  {
+    "REGION,C,2": 53,
+    "DEP,C,3": 29,
+    "CHEFLIEU,C,5": 29232,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "FINISTERE",
+    "NCCENR,C,70": "Finistère"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 30,
+    "CHEFLIEU,C,5": 30189,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "GARD",
+    "NCCENR,C,70": "Gard"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 31,
+    "CHEFLIEU,C,5": 31555,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-GARONNE",
+    "NCCENR,C,70": "Haute-Garonne"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 32,
+    "CHEFLIEU,C,5": 32013,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "GERS",
+    "NCCENR,C,70": "Gers"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 33,
+    "CHEFLIEU,C,5": 33063,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "GIRONDE",
+    "NCCENR,C,70": "Gironde"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 34,
+    "CHEFLIEU,C,5": 34172,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "HERAULT",
+    "NCCENR,C,70": "Hérault"
+  },
+  {
+    "REGION,C,2": 53,
+    "DEP,C,3": 35,
+    "CHEFLIEU,C,5": 35238,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "ILLE-ET-VILAINE",
+    "NCCENR,C,70": "Ille-et-Vilaine"
+  },
+  {
+    "REGION,C,2": 24,
+    "DEP,C,3": 36,
+    "CHEFLIEU,C,5": 36044,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "INDRE",
+    "NCCENR,C,70": "Indre"
+  },
+  {
+    "REGION,C,2": 24,
+    "DEP,C,3": 37,
+    "CHEFLIEU,C,5": 37261,
+    "TNCC,C,1": 1,
+    "NCC,C,70": "INDRE-ET-LOIRE",
+    "NCCENR,C,70": "Indre-et-Loire"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 38,
+    "CHEFLIEU,C,5": 38185,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "ISERE",
+    "NCCENR,C,70": "Isère"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 39,
+    "CHEFLIEU,C,5": 39300,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "JURA",
+    "NCCENR,C,70": "Jura"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 40,
+    "CHEFLIEU,C,5": 40192,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "LANDES",
+    "NCCENR,C,70": "Landes"
+  },
+  {
+    "REGION,C,2": 24,
+    "DEP,C,3": 41,
+    "CHEFLIEU,C,5": 41018,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "LOIR-ET-CHER",
+    "NCCENR,C,70": "Loir-et-Cher"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 42,
+    "CHEFLIEU,C,5": 42218,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "LOIRE",
+    "NCCENR,C,70": "Loire"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 43,
+    "CHEFLIEU,C,5": 43157,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-LOIRE",
+    "NCCENR,C,70": "Haute-Loire"
+  },
+  {
+    "REGION,C,2": 52,
+    "DEP,C,3": 44,
+    "CHEFLIEU,C,5": 44109,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "LOIRE-ATLANTIQUE",
+    "NCCENR,C,70": "Loire-Atlantique"
+  },
+  {
+    "REGION,C,2": 24,
+    "DEP,C,3": 45,
+    "CHEFLIEU,C,5": 45234,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "LOIRET",
+    "NCCENR,C,70": "Loiret"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 46,
+    "CHEFLIEU,C,5": 46042,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "LOT",
+    "NCCENR,C,70": "Lot"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 47,
+    "CHEFLIEU,C,5": 47001,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "LOT-ET-GARONNE",
+    "NCCENR,C,70": "Lot-et-Garonne"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 48,
+    "CHEFLIEU,C,5": 48095,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "LOZERE",
+    "NCCENR,C,70": "Lozère"
+  },
+  {
+    "REGION,C,2": 52,
+    "DEP,C,3": 49,
+    "CHEFLIEU,C,5": 49007,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "MAINE-ET-LOIRE",
+    "NCCENR,C,70": "Maine-et-Loire"
+  },
+  {
+    "REGION,C,2": 28,
+    "DEP,C,3": 50,
+    "CHEFLIEU,C,5": 50502,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MANCHE",
+    "NCCENR,C,70": "Manche"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 51,
+    "CHEFLIEU,C,5": 51108,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MARNE",
+    "NCCENR,C,70": "Marne"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 52,
+    "CHEFLIEU,C,5": 52121,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-MARNE",
+    "NCCENR,C,70": "Haute-Marne"
+  },
+  {
+    "REGION,C,2": 52,
+    "DEP,C,3": 53,
+    "CHEFLIEU,C,5": 53130,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MAYENNE",
+    "NCCENR,C,70": "Mayenne"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 54,
+    "CHEFLIEU,C,5": 54395,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "MEURTHE-ET-MOSELLE",
+    "NCCENR,C,70": "Meurthe-et-Moselle"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 55,
+    "CHEFLIEU,C,5": 55029,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MEUSE",
+    "NCCENR,C,70": "Meuse"
+  },
+  {
+    "REGION,C,2": 53,
+    "DEP,C,3": 56,
+    "CHEFLIEU,C,5": 56260,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "MORBIHAN",
+    "NCCENR,C,70": "Morbihan"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 57,
+    "CHEFLIEU,C,5": 57463,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MOSELLE",
+    "NCCENR,C,70": "Moselle"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 58,
+    "CHEFLIEU,C,5": 58194,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "NIEVRE",
+    "NCCENR,C,70": "Nièvre"
+  },
+  {
+    "REGION,C,2": 32,
+    "DEP,C,3": 59,
+    "CHEFLIEU,C,5": 59350,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "NORD",
+    "NCCENR,C,70": "Nord"
+  },
+  {
+    "REGION,C,2": 32,
+    "DEP,C,3": 60,
+    "CHEFLIEU,C,5": 60057,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "OISE",
+    "NCCENR,C,70": "Oise"
+  },
+  {
+    "REGION,C,2": 28,
+    "DEP,C,3": 61,
+    "CHEFLIEU,C,5": 61001,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "ORNE",
+    "NCCENR,C,70": "Orne"
+  },
+  {
+    "REGION,C,2": 32,
+    "DEP,C,3": 62,
+    "CHEFLIEU,C,5": 62041,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "PAS-DE-CALAIS",
+    "NCCENR,C,70": "Pas-de-Calais"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 63,
+    "CHEFLIEU,C,5": 63113,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "PUY-DE-DOME",
+    "NCCENR,C,70": "Puy-de-Dôme"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 64,
+    "CHEFLIEU,C,5": 64445,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "PYRENEES-ATLANTIQUES",
+    "NCCENR,C,70": "Pyrénées-Atlantiques"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 65,
+    "CHEFLIEU,C,5": 65440,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "HAUTES-PYRENEES",
+    "NCCENR,C,70": "Hautes-Pyrénées"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 66,
+    "CHEFLIEU,C,5": 66136,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "PYRENEES-ORIENTALES",
+    "NCCENR,C,70": "Pyrénées-Orientales"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 67,
+    "CHEFLIEU,C,5": 67482,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "BAS-RHIN",
+    "NCCENR,C,70": "Bas-Rhin"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 68,
+    "CHEFLIEU,C,5": 68066,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "HAUT-RHIN",
+    "NCCENR,C,70": "Haut-Rhin"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 69,
+    "CHEFLIEU,C,5": 69123,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "RHONE",
+    "NCCENR,C,70": "Rhône"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 70,
+    "CHEFLIEU,C,5": 70550,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-SAONE",
+    "NCCENR,C,70": "Haute-Saône"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 71,
+    "CHEFLIEU,C,5": 71270,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "SAONE-ET-LOIRE",
+    "NCCENR,C,70": "Saône-et-Loire"
+  },
+  {
+    "REGION,C,2": 52,
+    "DEP,C,3": 72,
+    "CHEFLIEU,C,5": 72181,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "SARTHE",
+    "NCCENR,C,70": "Sarthe"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 73,
+    "CHEFLIEU,C,5": 73065,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "SAVOIE",
+    "NCCENR,C,70": "Savoie"
+  },
+  {
+    "REGION,C,2": 84,
+    "DEP,C,3": 74,
+    "CHEFLIEU,C,5": 74010,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-SAVOIE",
+    "NCCENR,C,70": "Haute-Savoie"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 75,
+    "CHEFLIEU,C,5": 75056,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "PARIS",
+    "NCCENR,C,70": "Paris"
+  },
+  {
+    "REGION,C,2": 28,
+    "DEP,C,3": 76,
+    "CHEFLIEU,C,5": 76540,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "SEINE-MARITIME",
+    "NCCENR,C,70": "Seine-Maritime"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 77,
+    "CHEFLIEU,C,5": 77288,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "SEINE-ET-MARNE",
+    "NCCENR,C,70": "Seine-et-Marne"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 78,
+    "CHEFLIEU,C,5": 78646,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "YVELINES",
+    "NCCENR,C,70": "Yvelines"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 79,
+    "CHEFLIEU,C,5": 79191,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "DEUX-SEVRES",
+    "NCCENR,C,70": "Deux-Sèvres"
+  },
+  {
+    "REGION,C,2": 32,
+    "DEP,C,3": 80,
+    "CHEFLIEU,C,5": 80021,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "SOMME",
+    "NCCENR,C,70": "Somme"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 81,
+    "CHEFLIEU,C,5": 81004,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "TARN",
+    "NCCENR,C,70": "Tarn"
+  },
+  {
+    "REGION,C,2": 76,
+    "DEP,C,3": 82,
+    "CHEFLIEU,C,5": 82121,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "TARN-ET-GARONNE",
+    "NCCENR,C,70": "Tarn-et-Garonne"
+  },
+  {
+    "REGION,C,2": 93,
+    "DEP,C,3": 83,
+    "CHEFLIEU,C,5": 83137,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "VAR",
+    "NCCENR,C,70": "Var"
+  },
+  {
+    "REGION,C,2": 93,
+    "DEP,C,3": 84,
+    "CHEFLIEU,C,5": 84007,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "VAUCLUSE",
+    "NCCENR,C,70": "Vaucluse"
+  },
+  {
+    "REGION,C,2": 52,
+    "DEP,C,3": 85,
+    "CHEFLIEU,C,5": 85191,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "VENDEE",
+    "NCCENR,C,70": "Vendée"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 86,
+    "CHEFLIEU,C,5": 86194,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "VIENNE",
+    "NCCENR,C,70": "Vienne"
+  },
+  {
+    "REGION,C,2": 75,
+    "DEP,C,3": 87,
+    "CHEFLIEU,C,5": 87085,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "HAUTE-VIENNE",
+    "NCCENR,C,70": "Haute-Vienne"
+  },
+  {
+    "REGION,C,2": 44,
+    "DEP,C,3": 88,
+    "CHEFLIEU,C,5": 88160,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "VOSGES",
+    "NCCENR,C,70": "Vosges"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 89,
+    "CHEFLIEU,C,5": 89024,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "YONNE",
+    "NCCENR,C,70": "Yonne"
+  },
+  {
+    "REGION,C,2": 27,
+    "DEP,C,3": 90,
+    "CHEFLIEU,C,5": 90010,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "TERRITOIRE DE BELFORT",
+    "NCCENR,C,70": "Territoire de Belfort"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 91,
+    "CHEFLIEU,C,5": 91228,
+    "TNCC,C,1": 5,
+    "NCC,C,70": "ESSONNE",
+    "NCCENR,C,70": "Essonne"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 92,
+    "CHEFLIEU,C,5": 92050,
+    "TNCC,C,1": 4,
+    "NCC,C,70": "HAUTS-DE-SEINE",
+    "NCCENR,C,70": "Hauts-de-Seine"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 93,
+    "CHEFLIEU,C,5": 93008,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "SEINE-SAINT-DENIS",
+    "NCCENR,C,70": "Seine-Saint-Denis"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 94,
+    "CHEFLIEU,C,5": 94028,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "VAL-DE-MARNE",
+    "NCCENR,C,70": "Val-de-Marne"
+  },
+  {
+    "REGION,C,2": 11,
+    "DEP,C,3": 95,
+    "CHEFLIEU,C,5": 95500,
+    "TNCC,C,1": 2,
+    "NCC,C,70": "VAL-D'OISE",
+    "NCCENR,C,70": "Val-d'Oise"
+  },
+  {
+    "REGION,C,2": 1,
+    "DEP,C,3": 971,
+    "CHEFLIEU,C,5": 97105,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "GUADELOUPE",
+    "NCCENR,C,70": "Guadeloupe"
+  },
+  {
+    "REGION,C,2": 2,
+    "DEP,C,3": 972,
+    "CHEFLIEU,C,5": 97209,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "MARTINIQUE",
+    "NCCENR,C,70": "Martinique"
+  },
+  {
+    "REGION,C,2": 3,
+    "DEP,C,3": 973,
+    "CHEFLIEU,C,5": 97302,
+    "TNCC,C,1": 3,
+    "NCC,C,70": "GUYANE",
+    "NCCENR,C,70": "Guyane"
+  },
+  {
+    "REGION,C,2": 4,
+    "DEP,C,3": 974,
+    "CHEFLIEU,C,5": 97411,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "LA REUNION",
+    "NCCENR,C,70": "La Réunion"
+  },
+  {
+    "REGION,C,2": 6,
+    "DEP,C,3": 976,
+    "CHEFLIEU,C,5": 97608,
+    "TNCC,C,1": 0,
+    "NCC,C,70": "MAYOTTE",
+    "NCCENR,C,70": "Mayotte"
+  }
+]
